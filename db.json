@@ -1,17 +1,17 @@
 [
   {
     "id": "AAPL",
-    "name": "Apple Inc"
+    "name": "Apple Inc",
     "price": "136.72"
   },
   {
     "id": "GOOGL",
-    "name": "Alphabet Inc"
+    "name": "Alphabet Inc",
     "price": "2179.26"
   },
   {
     "id": "META",
-    "name": "Meta Platforms Inc"
+    "name": "Meta Platforms Inc",
     "price": "161.25"
   }
 ]
